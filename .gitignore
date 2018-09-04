@@ -1,0 +1,6 @@
+# SFDX folders/files
+./mdapi
+./mdapioutput
+./tests
+.SFDX
+.DS_STORE
