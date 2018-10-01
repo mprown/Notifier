@@ -1,0 +1,3 @@
+<aura:event type="COMPONENT" description="Bubbles event from channel to notifier console">
+    <aura:attribute name="toastNotifaction" type="Object"/>
+</aura:event>
